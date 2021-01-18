@@ -25,6 +25,9 @@ Un ejemplo en `Python`:
  lista = [1,2,3,4,5,6,7,8,9]
  for elemento in lista:
  	print('Hola Elemento nº: ', elemento)
+ nombres= [ 'guido', 'feña', 'rocio', 'fran']
+for alumno in nombres:
+	print(´hola alumnos', alumno)
     
 ````
 
